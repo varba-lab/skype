@@ -1,0 +1,2 @@
+# skype
+skype használata
